@@ -25,7 +25,7 @@ Application web de gestion de bibliothèque développée en **PHP / MySQL** avec
 
 - **Back-end :** PHP (PDO), MySQL
 - **Front-end :** HTML5, CSS3 (Flexbox/Grid, CSS Variables)
-- **Scripting :** JavaScript Vanilla
+- **Scripting :** JavaScript
 
 ## 📦 Installation en local
 
