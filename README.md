@@ -19,7 +19,7 @@ Application web de gestion de bibliothèque développée en **PHP / MySQL** avec
   - Palette de couleurs moderne (Bleu & Blanc).
   - Menu latéral mobile à 50% de largeur.
   - Validation des formulaires côté client et serveur.
-  - Disparition automatique des messages d'alerte (5 sec).
+  - Disparition automatique des messages d'alerte (15 sec).
 
 ## 🛠️ Technologies utilisées
 
