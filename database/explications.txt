@@ -1,0 +1,12 @@
+Comme vous pouvez le constater, j'ai disponibiliser deux scripts SQL:
+
+- Le premier bibiotheque_data.sql c'est ma base des donnees exportée directement et contient certaines donnees
+Notamment deux utilisateurs:
+            - Le premier c'est MUVATSI MICHAEL avec comme username: michaelmuvatsi@gmail.com et comme mot de passe 123456
+            - Le deuxieme c'est Lecteur Test avec comme username: test@gmail.com et comme mot de passe 654321
+
+- Le deuxieme fichier bibiotheque.sql contient uniquement la structure des tables.
+
+- Je precise que ma base des donnees est nommé bibiotheque
+
+Je sais que c'est pas une bonne pratique de mettre la base des donnees directement sur github mais...
