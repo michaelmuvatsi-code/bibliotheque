@@ -31,4 +31,4 @@ Application web de gestion de bibliothèque développée en **PHP / MySQL** avec
 
 1. Clonez le projet :
    ```bash
-   git clone [https://github.com/votre-nom-utilisateur/bibliotheque.git](https://github.com/votre-nom-utilisateur/bibliotheque.git)
+   git clone https://github.com/michaelmuvatsi-code/bibliotheque.git
